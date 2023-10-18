@@ -3,7 +3,7 @@
     {
       "name": "Test",
       "setup": "",
-      "run": "maven clean install || gradle clean build",
+      "run": "mvn clean install || gradle clean build",
       "input": "",
       "output": "",
       "comparison": "exact",
